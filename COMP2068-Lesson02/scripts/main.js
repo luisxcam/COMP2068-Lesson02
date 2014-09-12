@@ -1,9 +1,8 @@
-﻿/// <reference path="jquery.js" />
+﻿/// <reference path="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js" />
 
-
-console.log("Hello Lesson 02!");
-
-$(document).ready;
+if (jQuery) {
+    console.log("Hello Lesson 02!");
+}
 
 
 
