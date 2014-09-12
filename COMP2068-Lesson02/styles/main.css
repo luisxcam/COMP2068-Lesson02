@@ -1,2 +1,7 @@
-﻿body {
+﻿#lesson-header{
+    display: none;
+}
+
+body{
+    margin: 30px;
 }
